@@ -16,6 +16,10 @@
 
 Neverball and Neverputt are separate APKs (`neverballquest.apk` and `neverputtquest.apk`), so you can install either or both.
 
+## Controls
+
+![Neverball & Neverputt VR controller mapping](docs/controls.webp)
+
 ## Status
 
 Beta. Please report problems in [Issues](../../issues).
