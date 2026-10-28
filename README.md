@@ -1,5 +1,7 @@
 # Neverball & Neverputt Quest VR
 
+**Download, install guide, controls and pictures: [portroyale.online/neverball.html](https://portroyale.online/neverball.html)**
+
 [![Sponsor](https://img.shields.io/badge/Sponsor-SgtBilko76-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/SgtBilko76)
 
 [Neverball](https://neverball.org/) and its mini-golf sibling Neverputt, ported to Meta Quest as standalone VR apps.
